@@ -1,0 +1,2 @@
+# initializrcB
+colB 
